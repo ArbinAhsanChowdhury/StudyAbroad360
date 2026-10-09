@@ -1,0 +1,27 @@
+[2026-09-23 22:25:01] EMAIL DISPATCHED to [ananya@example.com] | Trigger: [5 Hours Left] | Program: [M.Sc. in Data Analytics & Artificial Intelligence]
+[2026-09-23 22:25:01] PUSH DISPATCH to [ananya@example.com] | 5 Hours Left | M.Sc. in Data Analytics & Artificial Intelligence
+[2026-09-23 22:25:01] SMS DISPATCH to [ananya@example.com] | 5 Hours Left | M.Sc. in Data Analytics & Artificial Intelligence
+[2026-09-23 22:25:03] EMAIL DISPATCHED to [ananya@example.com] | Trigger: [15 Days Left] | Program: [B.Sc. in Computer Science & Cyber Security]
+[2026-09-23 22:25:03] PUSH DISPATCH to [ananya@example.com] | 15 Days Left | B.Sc. in Computer Science & Cyber Security
+[2026-09-23 22:25:03] SMS DISPATCH to [ananya@example.com] | 15 Days Left | B.Sc. in Computer Science & Cyber Security
+[2026-09-23 23:34:43] EMAIL DISPATCHED to [mdarbinahsanchowdhury@gmail.com] | Trigger: [1 Day Left] | Program: [M.Sc. in Data Analytics & Artificial Intelligence]
+[2026-09-23 23:34:43] PUSH DISPATCH to [mdarbinahsanchowdhury@gmail.com] | 1 Day Left | M.Sc. in Data Analytics & Artificial Intelligence
+[2026-09-23 23:34:43] SMS DISPATCH to [mdarbinahsanchowdhury@gmail.com] | 1 Day Left | M.Sc. in Data Analytics & Artificial Intelligence
+[2026-09-23 23:46:49] EMAIL DISPATCHED to [mdarbinahsanchowdhury@gmail.com] | Trigger: [1 Day Left] | Program: [M.Sc. in Data Analytics & Artificial Intelligence]
+[2026-09-23 23:46:49] PUSH DISPATCH to [mdarbinahsanchowdhury@gmail.com] | 1 Day Left | M.Sc. in Data Analytics & Artificial Intelligence
+[2026-09-23 23:46:49] SMS DISPATCH to [mdarbinahsanchowdhury@gmail.com] | 1 Day Left | M.Sc. in Data Analytics & Artificial Intelligence
+[2026-09-23 23:47:53] EMAIL DISPATCHED to [mdarbinahsanchowdhury@gmail.com] | Trigger: [1 Day Left] | Program: [M.Sc. in Data Analytics & Artificial Intelligence]
+[2026-09-23 23:47:53] PUSH DISPATCH to [mdarbinahsanchowdhury@gmail.com] | 1 Day Left | M.Sc. in Data Analytics & Artificial Intelligence
+[2026-09-23 23:47:53] SMS DISPATCH to [mdarbinahsanchowdhury@gmail.com] | 1 Day Left | M.Sc. in Data Analytics & Artificial Intelligence
+[2026-09-23 23:52:57] EMAIL DISPATCHED to [mdarbinahsanchowdhury@gmail.com] | Trigger: [5 Hours Left] | Program: [M.Sc. in Data Analytics & Artificial Intelligence]
+[2026-09-23 23:52:57] PUSH DISPATCH to [mdarbinahsanchowdhury@gmail.com] | 5 Hours Left | M.Sc. in Data Analytics & Artificial Intelligence
+[2026-09-23 23:52:57] SMS DISPATCH to [mdarbinahsanchowdhury@gmail.com] | 5 Hours Left | M.Sc. in Data Analytics & Artificial Intelligence
+[2026-09-27 08:17:34] PASSWORD RESET SENT to [ananya@example.com] from [mdarbinahsanchowdhury@gmail.com] | TempPass: [Reset#2739]
+[2026-09-27 08:38:20] PASSWORD RESET SENT to [bigmanarbin13@gmail.com] from [mdarbinahsanchowdhury@gmail.com] | TempPass: [Reset#6140]
+[2026-09-27 08:39:25] PASSWORD RESET SENT to [bigmanarbin13@gmail.com] from [mdarbinahsanchowdhury@gmail.com] | TempPass: [Reset#8501]
+[2026-09-27 08:42:11] PASSWORD RESET SENT to [kakahihatake873@gmail.com] from [mdarbinahsanchowdhury@gmail.com] | TempPass: [Reset#9291]
+[2026-09-27 08:49:27] PASSWORD RESET SENT to [kakahihatake873@gmail.com] from [mdarbinahsanchowdhury@gmail.com] | TempPass: [Reset#1633]
+[2026-09-27 15:07:59] PASSWORD RESET SENT to [kakahihatake873@gmail.com] from [mdarbinahsanchowdhury@gmail.com] | TempPass: [Reset#9793]
+[2026-09-27 15:08:01] PASSWORD RESET SENT to [kakahihatake873@gmail.com] from [mdarbinahsanchowdhury@gmail.com] | TempPass: [Reset#3056]
+[2026-09-27 16:17:39] PASSWORD RESET SENT to [kakahihatake873@gmail.com] from [mdarbinahsanchowdhury@gmail.com] | TempPass: [Reset#3790]
+[2026-09-27 18:10:25] PASSWORD RESET (LOCAL LOGGED) to [kakahihatake873@gmail.com] from [mdarbinahsanchowdhury@gmail.com] | TempPass: [Reset#7608]

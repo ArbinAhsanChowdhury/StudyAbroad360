@@ -1,0 +1,17 @@
+# Ignore private local developer configuration
+includes/config.local.php
+
+# Ignore logs
+logs/*
+!logs/.gitkeep
+
+# Ignore user uploads
+uploads/documents/*
+!uploads/documents/.gitkeep
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
